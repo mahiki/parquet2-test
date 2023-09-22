@@ -1,0 +1,4 @@
+name = "parquet2_test"
+uuid = "b6e06486-f070-4b86-9309-f6cc72e0a56d"
+authors = ["mahiki <mahiki@users.noreply.github.com>"]
+version = "0.1.0"
